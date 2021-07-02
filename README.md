@@ -5,9 +5,12 @@
 - 📫 Contact me: <a href="https://www.linkedin.com/in/matheusmiranda"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"></a>
 
 
+
 ![Mat's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheus-miranda&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-miranda&layout=compact&theme=tokyonight)
+
+![Profile views](https://komarev.com/ghpvc/?username=matheus-miranda&color=grey)
 
 
 <!---
