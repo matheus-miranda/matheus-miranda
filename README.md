@@ -2,7 +2,7 @@
 </div>
   
 <div align="center">
-    <img height="200em" width="50%" src="https://github-readme-stats.vercel.app/api?username=matheus-miranda&show_icons=true&theme=tokyonight" />
+    <img width="80%" src="https://github-readme-stats.vercel.app/api?username=matheus-miranda&show_icons=true&theme=tokyonight" />
 <!--    <img height="200em" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-miranda&&layout=compact&theme=tokyonight" /> -->
 </div>
 <!-- <h3 align="center">Languages and Tools:</h3> -->
@@ -11,14 +11,12 @@
 <hr>
 
 <p> 👀 I’m interested in modern Android app development with Kotlin</p>
-<p> 💻 I’m looking for remote work preferably, but willing to relocate</p>
-<p> 🌱 I’m currently learning about Jetpack libraries</p>
+<p> 💻 Currently working as a mobile developer</p>
 <p> 📫 Contact me: <a href="https://www.linkedin.com/in/matheusmiranda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
 <hr>
 
 <p> 👀 Meu foco é o desenvolvimento moderno de aplicativos Android nativo com Kotlin</p>
-<p> 💻 Procuro trabalho remoto, mas estou disposto a me realocar</p>
-<p> 🌱 Estou atualmente estudando sobre as bibliotecas Jetpack</p>
+<p> 💻 Trabalho atualmente como desenvolvedor mobile</p>
 <p> 📫 Entre em contato: <a href="https://www.linkedin.com/in/matheusmiranda" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
 
 <!---
