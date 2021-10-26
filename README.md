@@ -1,21 +1,19 @@
 <!-- intro -->
-<h1 align="center">
+<h2 align="center">
    <a href="https://www.linkedin.com/in/matheusmiranda" target="_blank">
    <img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a>
    👋 Hi, I'm Matheus Miranda
    <img align="right" src="https://komarev.com/ghpvc/?username=matheus-miranda&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-miranda" />
-</h1>
+</h2>
 
 <!-- stats -->
 <details>
    <summary style="font-size:1.25em"><strong>Github Stats</strong></summary>
-   <table>
-      <tr>
-         <td><img src="https://github-readme-stats.vercel.app/api?username=matheus-miranda&show_icons=true&theme=tokyonight" /></td>
-         <td><img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-miranda&&layout=compact&theme=tokyonight" /></td>
-      </tr>
-   </table>
+   <div align="center">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheus-miranda&show_icons=true&theme=tokyonight" />
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-miranda&&layout=compact&theme=tokyonight" />
+   </div>
   
    <!-- languages and tools -->
    <p align="center"> 
@@ -44,7 +42,7 @@
    <summary style="font-size:1.25em"><strong>English</strong></summary>
    <p> 👀 I’m interested in modern Android app development with Kotlin</p>
    <p> 💻 Currently working as a mobile developer</p>
-   <p> 📫 Reach me via LinkedIn</p>
+   <p> 📫 Contact me via LinkedIn</p>
 </details>
 
 <hr>
