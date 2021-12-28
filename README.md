@@ -1,21 +1,29 @@
-<!-- intro -->
+<!--
 <h2 align="center">
    <a href="https://www.linkedin.com/in/matheusmiranda" target="_blank">
-   <img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+      <img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a>
-   👋 Hi, I'm Matheus Miranda
-   <img align="right" src="https://komarev.com/ghpvc/?username=matheus-miranda&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-miranda" />
 </h2>
+-->
 
-<!-- stats -->
+<!-- about -->
+   <p align="right">
+         <img src="https://komarev.com/ghpvc/?username=matheus-miranda&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-miranda" />
+   </p>
+   <p> 👨🏻‍💻 Junior software engineer interested in modern Android app development</p>
+   <p> 📍 Working remotely</p>
+   <p> 📫 Contact me via <a href="https://www.linkedin.com/in/matheusmiranda" target="_blank">LinkedIn</a> or <a href="https://discord.com/channels/@me" target="_blank">Discord:</a> <strong>Matheus Miranda#9908</strong></p>
+
+<!-- github stats -->
+<!--
 <details>
    <summary style="font-size:1.25em"><strong>Github Stats</strong></summary>
+   
    <div align="center">
       <img height="140em" src="https://github-readme-stats.vercel.app/api?username=matheus-miranda&show_icons=true&theme=tokyonight" />
       <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-miranda&&layout=compact&theme=tokyonight" />
    </div>
   
-   <!-- languages and tools -->
    <p align="center"> 
       <a href="https://developer.android.com" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -34,23 +42,4 @@
       </a>
    </p>
 </details>
-
-<hr>
-
-<!-- EN -->
-<details>
-   <summary style="font-size:1.25em"><strong>English</strong></summary>
-   <p> 👀 I’m interested in modern Android app development with Kotlin</p>
-   <p> 💻 Currently working as a mobile developer</p>
-   <p> 📫 Contact me via LinkedIn</p>
-</details>
-
-<hr>
-
-<!-- PT -->
-<details>
-   <summary style="font-size:1.25em"><strong>Português</strong></summary>
-   <p> 👀 Meu foco é o desenvolvimento de aplicativos Android nativo com Kotlin</p>
-   <p> 💻 Atualmente trabalho como desenvolvedor mobile</p>
-   <p> 📫 Entre em contato através do LinkedIn</p>
-</details>
+-->
