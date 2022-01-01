@@ -12,7 +12,7 @@
    </p>
    <p> 👨🏻‍💻 Junior software engineer interested in modern Android app development</p>
    <p> 📍 Working remotely</p>
-   <p> 📫 Contact me via <a href="https://www.linkedin.com/in/matheusmiranda" target="_blank">LinkedIn</a> or <a href="https://discord.com/channels/@me" target="_blank">Discord:</a> <strong>Matheus Miranda#9908</strong></p>
+   <p> 📫 Contact me via <a href="https://www.linkedin.com/in/matheusmiranda" target="_blank">LinkedIn</a> or <a href="https://discord.com/channels/@me" target="_blank">Discord:</a> <strong>Matheus M#9908</strong></p>
 
 <!-- github stats -->
 <!--
