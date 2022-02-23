@@ -10,7 +10,7 @@
    <p align="right">
          <img src="https://komarev.com/ghpvc/?username=matheus-miranda&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-miranda" />
    </p>
-   <p> 👨🏻‍💻 Junior software engineer interested in modern Android app development</p>
+   <p> 👨🏻‍💻 Junior software engineer interested in Android & iOS mobile app development</p>
    <p> 📍 Working remotely</p>
    <p> 📫 Contact me via <a href="https://www.linkedin.com/in/matheusmiranda" target="_blank">LinkedIn</a> or <a href="https://discord.com/channels/@me" target="_blank">Discord:</a> <strong>Matheus M#9908</strong></p>
 
