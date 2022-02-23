@@ -15,15 +15,15 @@
    <p> 📫 Contact me via <a href="https://www.linkedin.com/in/matheusmiranda" target="_blank">LinkedIn</a> or <a href="https://discord.com/channels/@me" target="_blank">Discord:</a> <strong>Matheus M#9908</strong></p>
 
 <!-- github stats -->
-<!--
+
 <details>
-   <summary style="font-size:1.25em"><strong>Github Stats</strong></summary>
+   <summary style="font-size:1.25em"><strong>Stats</strong></summary>
    
    <div align="center">
       <img height="140em" src="https://github-readme-stats.vercel.app/api?username=matheus-miranda&show_icons=true&theme=tokyonight" />
       <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-miranda&&layout=compact&theme=tokyonight" />
    </div>
-  
+<!--  
    <p align="center"> 
       <a href="https://developer.android.com" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
