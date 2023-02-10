@@ -4,7 +4,7 @@
          <img src="https://komarev.com/ghpvc/?username=matheus-miranda&label=Profile%20views&color=0e75b6&style=flat" alt="matheus-miranda" />
    </p>
    <div align="center">
-   <p> 👨🏻‍💻 Android Software engineer</p>
+   <p> 👨🏻‍💻 Android Software Engineer</p>
    <p> 📫 Contact me via <a href="https://www.linkedin.com/in/matheusmiranda" target="_blank">LinkedIn</a></p>
    </div>
 
