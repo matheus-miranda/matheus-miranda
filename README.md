@@ -7,21 +7,7 @@
    <p> 📫 Contact me / Entre em contato via <a href="https://www.linkedin.com/in/matheusmiranda" target="_blank">LinkedIn</a></p>
 </div>
 
-<!-- EN -->
-<details>
-   <summary style="font-size:1.25em"><strong>English</strong></summary>
-   <p>I have 2+ years of experience developing Android applications.</p>
-   <p>Also interested in native iOS development and cross-platform solutions such as Flutter and KMP.</p>
-</details>
-
-<!-- PT -->
-<details>
-   <summary style="font-size:1.25em"><strong>Português</strong></summary>
-   <p>Desenvolvedor Android com 2+ anos de experiência.</p>
-   <p>Também me interesso por desenvolvimento mobile nativo com iOS e multi plataforma com Flutter e KMP.</p>
-</details>
-
-<hr />
+<br />
 
 <!-- github stats -->
 <div align="center">
