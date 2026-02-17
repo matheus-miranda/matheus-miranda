@@ -11,6 +11,6 @@
 
 <!-- github stats -->
 <div align="center">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=matheus-miranda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-miranda&theme=tokyonight&layout=compact" />
+   <img height="140em" src="https://github-stats-extended.vercel.app/api?username=matheus-miranda&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+   <img height="140em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=matheus-miranda&theme=tokyonight&layout=compact" />
 </div>
